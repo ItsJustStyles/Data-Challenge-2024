@@ -6,7 +6,7 @@ Para empezar al ejecutar este programa se abrira una interfaz que pedira al una 
 
 Este codigo es una idea para poder ser imprementada en una pagina, en la cual se pueden mejorar los metodos de busqueda al implementar otros, como el nombre de la institución o menus de busqueda por niveles.
 
-EStas graficas son algunas ideas de las formas más visuales y menos complejas en las que una persona puede ver el uso que la instución usa el dinero del estado. Con esto siendo participe con el país.
+Estas graficas son algunas ideas de las formas más visuales y menos complejas en las que una persona puede ver el uso que la instución usa el dinero del estado. Con esto siendo participe con el país.
 
 Aparte de las graficas los datos tambien se imprimiran en la consola, esto siendo una idea para las personas que no son tan visuales pero siguiendo la linea de datos organizados.
 
